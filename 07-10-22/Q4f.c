@@ -39,7 +39,8 @@ int main()
 
 /* OUTPUTS
 
-➜ ~/desktop/cse/ASSGN/DSLAB/07-10-22 $ ./q4f
+ ➜ ~/desktop/cse/ASSGN/DSLAB/07-10-22 $ clang Q4g.c -o q4g
+ ➜ ~/desktop/cse/ASSGN/DSLAB/07-10-22 $ ./q4f
 Year : 1989
 Odometer : 69420km
 Fuel type : P
