@@ -63,13 +63,16 @@ int main()
 
 /* OUTPUTS
 
-~/20214272/DS/07-10-22 $ gcc Q2.c -o q2
-~/20214272/DS/07-10-22 $ ./q2
-Enter a string : hello world
-Reverse : dlrow olleh
-~/20214272/DS/07-10-22 $ ./q2
-Enter a string : racecar
-Reverse : racecar
-~/20214272/DS/07-10-22 $
-
+ ➜ ~/desktop/cse/ASSGN/DSLAB/07-10-22 $ clang Q3.c -o q3  
+ ➜ ~/desktop/cse/ASSGN/DSLAB/07-10-22 $ ./q3
+Enter expression : [(])
+False
+ ➜ ~/desktop/cse/ASSGN/DSLAB/07-10-22 $ ./q3
+Enter expression : [()]{}{[()()]()}
+True
+ ➜ ~/desktop/cse/ASSGN/DSLAB/07-10-22 $ ./q3
+Enter expression : [({})]
+True
+ ➜ ~/desktop/cse/ASSGN/DSLAB/07-10-22 $
+ 
 */
